@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+// const fetch = require('node-fetch');
 
 const BASE_URL = 'https://api.exchangerate.host';
 const LATEST_ENDPOINT = '/latest';
